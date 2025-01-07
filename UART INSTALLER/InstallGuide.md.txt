@@ -1,0 +1,10 @@
+WINDOWS:
+Unzip /Universal_windows_UART
+then right click silabser
+click install
+
+MAC OS:
+Unzip /macOS_usb_to_uart_installer
+CLick SiLabsUSBDRIVERDISK.DMG
+follow install instructions 
+
